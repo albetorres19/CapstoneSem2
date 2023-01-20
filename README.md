@@ -38,7 +38,7 @@
 
      
      
-   *(Figure 1)* Demonstration of people who make over 50K sorted by education
+   *(Figure 1)* Demonstration of people who make over 50K a year sorted by education
    
 ![image](https://user-images.githubusercontent.com/110133652/213798773-248e6906-4341-4e4b-9fbd-a8fe92375c4a.png)
 

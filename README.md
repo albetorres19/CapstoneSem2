@@ -33,15 +33,14 @@
        * race
        * gender
        * relationship
-       * age
        * Hours worked per week
     
 
      
      
-   *(Figure 1)* Demonstration of ROI by language to target the most regions with the most popular released movies
+   *(Figure 1)* Demonstration of people who make over 50K sorted by education
    
-   ![image](https://user-images.githubusercontent.com/110133652/185657004-775cbff4-1820-4849-908a-d8e036cd4cae.png)
+   ![image](image.png)
    
    *(Figure 2)* Visualizing the popular movie directors baed on their average rating and highest number of votes.
    

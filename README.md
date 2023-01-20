@@ -40,7 +40,7 @@
      
    *(Figure 1)* Demonstration of people who make over 50K sorted by education
    
-   ![image](image.png)
+   ![image](Education Comparion.png)
    
    *(Figure 2)* Visualizing the popular movie directors baed on their average rating and highest number of votes.
    

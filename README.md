@@ -1,12 +1,5 @@
 # Semester 2 Capstone Project - Income Predictor
 
-![image](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/sproject_teaser_image/screen_shot_2020-12-07_at_15.43.34_copy.jpg?itok=IDSSEGe1)
-
-## Authors
- * Alberto Torres
-
-
-
 ## Overview
  * Business Problem
       * For this project I wanted to build a model that colleges can show potential college students how likely they are to make over 50K
@@ -16,6 +9,15 @@
       * College can recommend going to college will allow students to make more than 50K a year than those people that do not 
       go to college.
       * Having a bachelors can put you over 50K a year faster rather than those who have a High School education.
+
+
+![image](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/sproject_teaser_image/screen_shot_2020-12-07_at_15.43.34_copy.jpg?itok=IDSSEGe1)
+
+## Authors
+ * Alberto Torres
+
+
+
 
 ## Business Understanding
   * College enrollment are slowly declining throughout the United States. College's can use this model to show potential students
@@ -39,62 +41,33 @@
      
      
    *(Figure 1)* Demonstration of people who make over 50K a year sorted by education
-   
-<<<<<<< HEAD
-   ![image](image.png)
-=======
+
 ![image](https://user-images.githubusercontent.com/110133652/213798773-248e6906-4341-4e4b-9fbd-a8fe92375c4a.png)
 
->>>>>>> db7d2a37821e6484ad6e9631e17ac45f9c109224
+   *(Figure 2)* Demonstration of people who make less than 50K a year sorted by education
    
-   *(Figure 2)* Visualizing the decision tree and showing how it is branching to make a decision.
+![image](https://user-images.githubusercontent.com/110133652/213937408-0cc3725d-5715-4164-976f-290e30d9a601.png)
+
+
+   *(Figure 3)* Visualizing comparison how many individuals make or 50K(1) and how many make less than 50K(0).
+   
+   ![image](https://user-images.githubusercontent.com/110133652/213937334-c211bcb4-ea8a-4d8f-9bfd-fbab70179429.png)
+
+   *(Figure 4)* Visualizing the decision tree and showing how it is branching to make a decision.
    
    ![image](https://user-images.githubusercontent.com/110133652/213800364-6b3d3596-ffa4-414d-b258-91869d449999.png)
  
-   *(Figure 3)* Visualizing the distribution of movie ratings and where the mean and median lie.
    
-   ![image](https://user-images.githubusercontent.com/110133652/185686264-4ab89ffd-463d-4d55-be47-a1defe8f4f11.png)
-   
-   *(Figure 4)* Visualizing that there is a statistical significance that higher rated movies make more money.
-   
-   ![image](https://user-images.githubusercontent.com/110133652/185686381-4c44b3ac-a942-40e1-a4a4-724e60cbab21.png)
-
-   *(Figure 5)* Most profitable movie genres.
-
-   ![image](https://user-images.githubusercontent.com/110133652/185657214-b57a3ced-3cf9-43f7-8d17-0388e65ed4c9.png)
-
-
-
        
-## Statistical Communication
-   * Q: Do movies with a rating of at least 6.5 lead to a higher revenue?
-   * A: There is a statistical significance that higher rated movies make more money.
-   * Q: Which genres perform the best, given a high rating and high total profit?
-   * A: Musical, Animation, Sci-Fi, and Adventure
-
-## Results
-   * Advantages
-     * Avoid common pitfalls through intelligent investment
-     * Greatly improve return on investment potential
-     * Reduce losses
-   * Limitations
-     * Lack pricing for directors
-     * Return on investment is easily skewed
-     * Limited data for some countries
+## Models and Evalution
+   For this project 2 models were used: Decision Tree and Random Forest. The main model I would take to production
+   would be my Random Forest model. For my baseline model for my Random Forest I am mostly looking at recall and percision    as the metric of most importance. The baseline recall and precision of the model for individuals who made less than 50K    was 71% for recall and 94% for precision, for those who made over 50K recall was 85% and precision was 49%. After doing    a gridsearch to optimize the model, recall for those who make less than 50K went up to 73% and precision stayed at 94%.    For those who make more than 50K recall stayed the same at 85% and precision went up to 51%
+   
 
 ## Conclusion
-
-   * Invest in top genres
-   * Release in areas with top languages.
-   * Research pricing for directors.
-   * Continue researching trends.
-
-## Next Steps
-
-   * Gather more data on customer interest. (i.e. surveys)
-   * Research the top languages per region.
-   * Continually analyze trends using current datasets.
-
+   * This model is recommend to be used based on the precision and recall the model is producing for individuals that are
+     weighing their options on whether getting a college education because the of income they will be earning after
+     they obtain their degree/education.
 
 ## For More Information
 

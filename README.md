@@ -30,11 +30,12 @@
     
    * Description of data & Features used
      * Income Dataset
-       * education
-       * occupation
+       * Target Variable: Income >50K
+       * education: Highest level of education individual achieved
+       * occupation: Current work position
        * race
-       * gender
-       * relationship
+       * gender: Male or Female
+       * relationship: If individual is a husband, wife, single, etc.
        * Hours worked per week
     
 

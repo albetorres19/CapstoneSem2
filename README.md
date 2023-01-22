@@ -1,6 +1,6 @@
 # Semester 2 Capstone Project - Income Predictor
 
-## Overview
+## Pitch
  * Business Problem
       * For this project I wanted to build a model that colleges can show potential college students how likely they are to make over 50K
       a year if they decided to pursue a college education.  

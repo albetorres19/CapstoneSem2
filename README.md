@@ -38,13 +38,18 @@
 
      
      
-   *(Figure 1)* Demonstration of people who make over 50K sorted by education
+   *(Figure 1)* Demonstration of people who make over 50K a year sorted by education
    
+<<<<<<< HEAD
    ![image](image.png)
+=======
+![image](https://user-images.githubusercontent.com/110133652/213798773-248e6906-4341-4e4b-9fbd-a8fe92375c4a.png)
+
+>>>>>>> db7d2a37821e6484ad6e9631e17ac45f9c109224
    
-   *(Figure 2)* Visualizing the popular movie directors baed on their average rating and highest number of votes.
+   *(Figure 2)* Visualizing the decision tree and showing how it is branching to make a decision.
    
-   ![image](https://user-images.githubusercontent.com/110118017/185942914-af0bbd05-9f85-45c5-ad71-4b846a9fbd00.png)
+   ![image](https://user-images.githubusercontent.com/110133652/213800364-6b3d3596-ffa4-414d-b258-91869d449999.png)
  
    *(Figure 3)* Visualizing the distribution of movie ratings and where the mean and median lie.
    

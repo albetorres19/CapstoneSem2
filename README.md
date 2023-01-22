@@ -73,4 +73,4 @@
 
 See the full analysis in the [Jupyter Notebook](https://github.com/albetorres19/CapstoneSem2/blob/main/index.ipynb) or review this [presentation](./presentation.pdf).
 
-Link to our repository: https://github.com/jaeminlee95/Semester1_Capstone_Group_3
+Link to our repository: [https://github.com/jaeminlee95/Semester1_Capstone_Group_3](https://github.com/albetorres19/CapstoneSem2)

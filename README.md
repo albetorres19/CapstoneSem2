@@ -72,8 +72,8 @@
 
 ## Repository Navigation
 
-     *All files and notebook for repo are on the main branch with no folders, it is designed this way for easy access.
-     As well, the repo does not contain many files or multiple notebook, so navigation is straightforward.  
+   All files and notebook for repo are on the main branch with no folders, it is designed this way for easy access.
+   As well, the repo does not contain many files or multiple notebook, so navigation is straightforward.  
 
 See the full analysis in the [Jupyter Notebook](https://github.com/albetorres19/CapstoneSem2/blob/main/index.ipynb) or review this [presentation](./presentation.pdf).
 

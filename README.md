@@ -8,7 +8,7 @@
  * Business Solution
       * College can recommend going to college will allow students to make more than 50K a year than those people that do not 
       go to college.
-      * Having a bachelors can put you over 50K a year faster rather than those who have a High School education.
+      * Having a bachelors can put you over 50K a year faster than those who have a High School education.
 
 
 ![image](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/sproject_teaser_image/screen_shot_2020-12-07_at_15.43.34_copy.jpg?itok=IDSSEGe1)
@@ -75,6 +75,6 @@
    All files and notebook for repo are on the main branch with no folders, it is designed this way for easy access.
    As well, the repo does not contain many files or multiple notebook, so navigation is straightforward.  
 
-See the full analysis in the [Jupyter Notebook](https://github.com/albetorres19/CapstoneSem2/blob/main/index.ipynb) or review this [presentation](./presentation.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/albetorres19/CapstoneSem2/blob/main/index.ipynb) or review this [presentation](https://github.com/albetorres19/CapstoneSem2/blob/main/Sem2_Presentation.pptx).
 
-Link to our repository: [https://github.com/jaeminlee95/Semester1_Capstone_Group_3](https://github.com/albetorres19/CapstoneSem2)
+Link to our repository: [https://github.com/albetorres19/CapstoneSem2]

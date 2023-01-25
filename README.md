@@ -8,7 +8,7 @@
  * Business Solution
       * College can recommend going to college will allow students to make more than 50K a year than those people that do not 
       go to college.
-      * Having a bachelors can put you over 50K a year faster rather than those who have a High School education.
+      * Having a bachelors can put you over 50K a year faster than those who have a High School education.
 
 
 ![image](https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/sproject_teaser_image/screen_shot_2020-12-07_at_15.43.34_copy.jpg?itok=IDSSEGe1)

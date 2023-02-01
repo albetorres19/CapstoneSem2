@@ -46,15 +46,16 @@
 ![image](https://user-images.githubusercontent.com/110133652/216097703-1732368f-a5aa-488f-9caa-50ea7e935309.png)
 
 
-   *(Figure 2)* Visualizing confusion matrix
+   
+   *(Figure 2)* Visualizing comparison how many individuals make or 50K(1) and how many make less than 50K(0).
+   
+   ![image](https://user-images.githubusercontent.com/110133652/213937334-c211bcb4-ea8a-4d8f-9bfd-fbab70179429.png)
+   
+   *(Figure 3)* Visualizing confusion matrix (Random Forest)
    
    ![image](https://user-images.githubusercontent.com/110133652/216097866-11aeedc6-448d-47d1-8b34-9936597f5b60.png)
 
    
-   *(Figure 3)* Visualizing comparison how many individuals make or 50K(1) and how many make less than 50K(0).
-   
-   ![image](https://user-images.githubusercontent.com/110133652/213937334-c211bcb4-ea8a-4d8f-9bfd-fbab70179429.png)
-
    *(Figure 4)* Visualizing the decision tree and showing how it is branching to make a decision.
    
    ![image](https://user-images.githubusercontent.com/110133652/213800364-6b3d3596-ffa4-414d-b258-91869d449999.png)

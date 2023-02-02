@@ -81,6 +81,15 @@ See the full analysis in the [Jupyter Notebook](https://github.com/albetorres19/
 
 Link to our repository: [https://github.com/albetorres19/CapstoneSem2]
 
+## Reproducibility
+     * Install/configure git
+     * Install/configure Anaconda
+     * Set up learning environment
+     * Clone Repo
+     * Type comand " jupyter notebook index.ipynb" to run notebook.
+     
+
+
 ## External Source
 
 https://www.npr.org/2022/01/13/1072529477/more-than-1-million-fewer-students-are-in-college-the-lowest-enrollment-numbers- 

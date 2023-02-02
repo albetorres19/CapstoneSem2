@@ -86,7 +86,7 @@ Link to my repository: [https://github.com/albetorres19/CapstoneSem2]
      * Install/configure Anaconda
      * Set up learning environment
      * Clone Repo
-     * Type comand " jupyter notebook index.ipynb" to run notebook.
+     * Type command " jupyter notebook index.ipynb" to run notebook.
      
 
 

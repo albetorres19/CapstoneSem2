@@ -80,3 +80,7 @@
 See the full analysis in the [Jupyter Notebook](https://github.com/albetorres19/CapstoneSem2/blob/main/index.ipynb) or review this [presentation](https://github.com/albetorres19/CapstoneSem2/blob/main/Sem2_Presentation.pdf).
 
 Link to our repository: [https://github.com/albetorres19/CapstoneSem2]
+
+## External Source
+
+https://www.npr.org/2022/01/13/1072529477/more-than-1-million-fewer-students-are-in-college-the-lowest-enrollment-numbers- 

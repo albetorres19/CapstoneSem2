@@ -79,14 +79,14 @@
 
 See the full analysis in the [Jupyter Notebook](https://github.com/albetorres19/CapstoneSem2/blob/main/index.ipynb) or review this [presentation](https://github.com/albetorres19/CapstoneSem2/blob/main/Sem2_Presentation.pdf).
 
-Link to our repository: [https://github.com/albetorres19/CapstoneSem2]
+Link to my repository: [https://github.com/albetorres19/CapstoneSem2]
 
 ## Reproducibility
      * Install/configure git
      * Install/configure Anaconda
      * Set up learning environment
      * Clone Repo
-     * Type comand " jupyter notebook index.ipynb" to run notebook.
+     * Type command " jupyter notebook index.ipynb" to run notebook.
      
 
 
